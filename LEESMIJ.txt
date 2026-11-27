@@ -1,6 +1,0 @@
-MEEUWEN KIJKEN - DEFINITIEVE STANDALONE VERSIE
-
-Open index.html in een moderne browser.
-De cursusfoto's zijn rechtstreeks in index.html ingebed, dus er is geen losse afbeeldingenmap nodig.
-Voor de determinatiesleutel, leeftijdsbepaling, vergelijking en quiz is geen internetverbinding nodig.
-Voor installatie als PWA via een browser is hosting via HTTP/HTTPS vereist.
